@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on [Twitteroo](https://github.com/mat-borges/projeto12-tweteroo)<br>🌱 I’m currently learning Node.js<br>💬 Ask me about HTML, CSS, JavaScript, React
+🔭 I’m currently working on [Twitteroo](https://github.com/mat-borges/projeto12-tweteroo)<br>🌱 I’m currently learning MongoDB<br>💬 Ask me about HTML, CSS, JavaScript, React
 
 
 ## 🌐 Socials:
