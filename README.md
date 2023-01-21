@@ -19,6 +19,7 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML on mdnWebDocs")
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS on mdnWebDocs")
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/ "React")
+[![styled-components](http://img.shields.io/badge/StyledComponents-%2320232a.svg?style=for-the-badge&logo=styledcomponents&logoColor=DB7093)](https://styled-components.com/ "styled-components")
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/en/ "Node.JS")
 [![Express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/ "Express")
 [![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/ "TypeScript")
@@ -35,6 +36,8 @@
 ---
 ![mateus snake svg](https://github.com/mat-borges/mat-borges/blob/output/github-contribution-grid-snake.svg)
 
-[![](https://visitcount.itsvg.in/api?id=mat-borges&icon=2&color=4)](https://visitcount.itsvg.in)
-
-
+<div align="center">
+  <br><p align="centre"><b>Visitors Counter</b></p>  
+  <img align="center" src="https://profile-counter.glitch.me/{mat-borges}/count.svg" />
+  <br>
+</div>
