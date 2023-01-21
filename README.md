@@ -1,5 +1,4 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;section=header" alt="header"/>
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=32&amp;duration=2000&amp;pause=1000&amp;color=585858FF&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=Hi+there!+%F0%9F%91%8B%F0%9F%8F%BC;I&#39;m+26%2C+from+S%C3%A3o+Paulo%2C+Brazil+%F0%9F%97%BA%EF%B8%8F;Full+Stack+Developer+%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB" alt="Typing SVG">
   </a>
@@ -16,7 +15,7 @@
 
 <h2 id="-socials-">🌐 Socials:</h2>
 
-<div>
+<div align="center">
   <a href="https://linkedin.com/in/mat-borges" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge">
   </a>
@@ -67,7 +66,9 @@
   </a>
 </div>
 
-<h3 id="-random-dev-quote">✍️ Random Dev Quote</h3>
+##
+
+<h3 id="-random-dev-quote"  align="center">✍️ Random Dev Quote</h3>
 
 <div align="center">
   <img width="500em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
