@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL**
 
-
 ## 🌐 Socials
 
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mat-borges "Connect on LinkedIn")
@@ -41,6 +40,12 @@
 #### _Databases_
  [![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/ "MongoDB")
  [![PostgreSQL](http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/ "PostgreSQL")
+ 
+ ##
+ 
+ ### Education
+- Bachelor's degree in Checimal Engineering from UNICAMP
+- Fullstack Developer from Driven Education
 
 ##
 
