@@ -1,7 +1,8 @@
 ## 💫 About Me:
-🔭 I’m currently working on [Driven.t](https://github.com/mat-borges/drivent_calstech)<br>
-🌱 I’m currently learning TypeScript<br>
-💬 Ask me about JavaScript, React, Node.js, PostgreSQL
+- 💻 My lastest project **[Shortly(API)](https://github.com/mat-borges/shortly-api)**
+- 🔭 I’m currently working on **[Driven.t](https://github.com/mat-borges/drivent_calstech)**<br>
+- 🌱 I’m currently learning **TypeScript**<br>
+- 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL**
 
 
 ## 🌐 Socials:
