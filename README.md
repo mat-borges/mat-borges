@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h2 id="-about-me-">💫 About Me:</h2>
+<h2 ></h2>
 
 <ul>
   <li>💻 My lastest project <strong><a href="https://github.com/mat-borges/shortly-api">Shortly(API)</a></strong></li>
@@ -15,7 +15,7 @@
 
 <h2 id="-socials-">🌐 Socials:</h2>
 
-<div align="center">
+<div>
   <a href="https://linkedin.com/in/mat-borges" title="Connect on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge">
   </a>
@@ -29,10 +29,15 @@
 
 <h2 id="-tech-stack-">💻 Tech Stack:</h2>
 
+
 <div>
+  <h4><em>Editor</em></h4>
   <a href="https://code.visualstudio.com/" title="VSCode"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=ffffff" alt="VSCode"></a>
 </div>
+
+
 <div>
+  <h4><em>Languages</em></h4>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JS on mdnWebDocs"><img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML on mdnWebDocs">
@@ -41,6 +46,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS on mdnWebDocs">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=ffffff" alt="CSS3">
   </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript">
+     <img src="http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=ffffff" alt="TypeScript">
+  </a>
+</div>
+
+<div>
+  <h4><em>Libraries and Tools</em></h4>
   <a href="https://reactjs.org/" title="React">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
   </a>
@@ -53,11 +65,11 @@
   <a href="https://expressjs.com/" title="Express">
     <img src="http://img.shields.io/badge/express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=ffffff" alt="Express">
   </a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript">
-     <img src="http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=ffffff" alt="TypeScript">
-  </a>
 </div>
+
+
 <div>
+  <h4><em>Databases</em></h4>
   <a href="https://www.mongodb.com/" title="MongoDB">
     <img src="http://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=-47A248" alt="MongoDB">
   </a>
