@@ -1,3 +1,5 @@
+<h3 align="center"><strong><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"> Hi, I'm Mateus Borges</strong></h3>
+
 ## 💫 About Me:
 - 💻 My lastest project **[Shortly(API)](https://github.com/mat-borges/shortly-api)**
 - 🔭 I’m currently working on **[Driven.t](https://github.com/mat-borges/drivent_calstech)**<br>
