@@ -10,21 +10,21 @@
 ## 🌐 Socials:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mat-borges "Connect on LinkedIn")
 [![Instagram Badge](https://img.shields.io/badge/-@matbborges-f25b85?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/matbborges/ "Follow on Instagram")
-[![Wakatime](https://wakatime.com/badge/user/65e091a8-99ff-49c6-96b2-fe7a9a3dd53c.svg)](https://wakatime.com/@65e091a8-99ff-49c6-96b2-fe7a9a3dd53c)
+[![Wakatime Badge](https://wakatime.com/badge/user/65e091a8-99ff-49c6-96b2-fe7a9a3dd53c.svg)](https://wakatime.com/@65e091a8-99ff-49c6-96b2-fe7a9a3dd53c "See WakaTime Profile")
 
 ## 💻 Tech Stack:
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+[![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)](https://code.visualstudio.com/ "VSCode")
 
-![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![Express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff)
-![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+[![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JS on mdnWebDocs")
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML on mdnWebDocs")
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS on mdnWebDocs")
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/ "React")
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=ffffff)](https://nodejs.org/en/ "Node.JS")
+[![Express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/ "Express")
+[![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/ "TypeScript")
 
-![MongoDB](http://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=-47A248)
-![PostgreSQL](http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+[![MongoDB](http://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=-47A248)](https://www.mongodb.com/ "MongoDB")
+[![PostgreSQL](http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/ "PostgreSQL")
 
 
 ### ✍️ Random Dev Quote
