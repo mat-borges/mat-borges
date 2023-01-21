@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=32&amp;duration=2000&amp;pause=1000&amp;color=585858FF&amp;center=true&amp;vCenter=true&amp;width=860&amp;lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!;%F0%9F%9A%B9+My+name+is+Mateus+Borges%2C+I&#39;m+26;%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB+and+a+Full+Stack+Developer+&#40in+training&#41" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=1000&color=585858FF&center=true&vCenter=true&width=860&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!;%F0%9F%9A%B9+My+name+is+Mateus+Borges%2C+I&#39;m+26;%F0%9F%A7%91%F0%9F%8F%BC%E2%80%8D%F0%9F%92%BB+and+a+Full+Stack+Developer+&#40in+training&#41" alt="Typing SVG">
   </a>
 </div>
 
@@ -13,68 +13,73 @@
   <li>💬 Ask me about <strong>JavaScript, React, Node.js, PostgreSQL</strong></li>
 </ul>
 
-<h2 id="-socials-">🌐 Socials:</h2>
+<h2 id="-socials-">🌐 Socials</h2>
 
 <div>
   <a href="https://linkedin.com/in/mat-borges" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://www.instagram.com/matbborges/" title="Follow on Instagram">
-    <img src="https://img.shields.io/badge/-@matbborges-f25b85?style=flat&amp;logo=Instagram&amp;logoColor=white" alt="Instagram Badge">
+    <img src="https://img.shields.io/badge/-@matbborges-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram Badge">
   </a>
   <a href="https://wakatime.com/@65e091a8-99ff-49c6-96b2-fe7a9a3dd53c" title="See WakaTime Profile">
     <img src="https://wakatime.com/badge/user/65e091a8-99ff-49c6-96b2-fe7a9a3dd53c.svg" alt="Wakatime Badge">
   </a>
 </div>
 
-<h2 id="-tech-stack-">💻 Tech Stack:</h2>
+<h2 id="-tech-stack-">💻 Tech Stack</h2>
 
 
 <div>
   <h4><em>Editor</em></h4>
-  <a href="https://code.visualstudio.com/" title="VSCode"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=ffffff" alt="VSCode"></a>
+  <a href="https://code.visualstudio.com/" title="VSCode"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VSCode"></a>
 </div>
 
 
 <div>
   <h4><em>Languages</em></h4>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JS on mdnWebDocs"><img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JS on mdnWebDocs"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=808080" alt="JavaScript">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML on mdnWebDocs">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=ffffff" alt="HTML5">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS on mdnWebDocs">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=ffffff" alt="CSS3">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff" alt="CSS3">
   </a>
   <a href="https://www.typescriptlang.org/" title="TypeScript">
-     <img src="http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=ffffff" alt="TypeScript">
+     <img src="http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="TypeScript">
   </a>
 </div>
 
 <div>
   <h4><em>Libraries and Tools</em></h4>
   <a href="https://reactjs.org/" title="React">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=808080" alt="React">
   </a>
   <a href="https://styled-components.com/" title="styled-components">
-    <img src="http://img.shields.io/badge/StyledComponents-%2320232a.svg?style=for-the-badge&amp;logo=styledcomponents&amp;logoColor=DB7093" alt="styled-components">
+    <img src="http://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff" alt="styled-components">
   </a>
   <a href="https://nodejs.org/en/" title="Node.JS">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=ffffff" alt="NodeJS">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=ffffff" alt="NodeJS">
   </a>
   <a href="https://expressjs.com/" title="Express">
-    <img src="http://img.shields.io/badge/express-000000?style=for-the-badge&amp;logo=express&amp;logoColor=ffffff" alt="Express">
+    <img src="http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff" alt="Express">
+  </a>
+  <a href="https://git-scm.com/" title="Git">
+    <img src="http://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="Express">
+  </a>
+  <a href="https://eslint.org/" title="Eslint">
+    <img src="http://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=ffffff" alt="Express">
   </a>
 </div>
-
 
 <div>
   <h4><em>Databases</em></h4>
   <a href="https://www.mongodb.com/" title="MongoDB">
-    <img src="http://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=-47A248" alt="MongoDB">
+    <img src="http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff" alt="MongoDB">
   </a>
   <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=ffffff" alt="PostgreSQL">
+    <img src="http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff" alt="PostgreSQL">
   </a>
 </div>
 
