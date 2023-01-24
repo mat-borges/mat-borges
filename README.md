@@ -6,8 +6,8 @@
 
 ##
 
-- 💻 My lastest project **![Shortly(API)](https://github.com/mat-borges/shortly-api)**
-- 🔭 I’m currently working on **![Driven.t](https://github.com/mat-borges/drivent_calstech)**
+- 💻 My lastest project **[Shortly(API)](https://github.com/mat-borges/shortly-api)**
+- 🔭 I’m currently working on **[Driven.t](https://github.com/mat-borges/drivent_calstech)**
 - 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL**
 
