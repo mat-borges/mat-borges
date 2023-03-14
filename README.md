@@ -1,15 +1,15 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=2000&color=008F11&center=true&vCenter=true&width=860&lines=👋🏼+Hi+there!;🙋🏼‍♂️+My+name+is+Mateus+Borges%2C+I&#39;m+26;👨🏼‍💻+and+a+Full+Stack+Developer+&#40in+training&#41" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=1000&pause=1500&color=008F11&center=true&vCenter=true&width=860&lines=👋🏼+Hi+there!;🙋🏼‍♂️+My+name+is+Mateus+Borges%2C+I&#39;m+26;👨🏼‍💻+and+a+Full+Stack+Developer" alt="Typing SVG">
   </a>
 </div>
 
 ##
 
 - 💻 My lastest project **[Shortly(API)](https://github.com/mat-borges/shortly-api "Projeto Shortly-api")**
-- 🔭 I’m currently working on **[Driven.t](https://github.com/mat-borges/drivent_calstech "Projeto Driven.t API")**
-- 🌱 I’m currently learning **TypeScript**
-- 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL**
+- 🔭 I’m currently working on **[Driven.t](https://github.com/orgs/drivent-G1010/repositories "Projeto Driven.t")**
+- 🌱 I’m currently learning **Unit Tests**
+- 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, Prisma**
 
 ## 🌐 Socials
 
@@ -34,12 +34,14 @@
  [![styled-components](http://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff) ](https://styled-components.com/ "styled-components")
  [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=ffffff) ](https://nodejs.org/en/ "Node.JS")
  [![Express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff) ](https://expressjs.com/ "Express")
+ [![Prisma](http://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=ffffff) ](https://www.prisma.io/docs "Prisma")
  [![Git](http://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ](https://git-scm.com/ "Git")
  [![eslint](http://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=ffffff)](https://eslint.org/ "Eslint")
 
 #### _Databases_
  [![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/ "MongoDB")
  [![PostgreSQL](http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/ "PostgreSQL")
+ [![Redis](http://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=ffffff)](https://redis.io/docs/ "Redis")
  
  ##
  
