@@ -60,10 +60,3 @@
 <div align="center">
   <img src="https://github.com/mat-borges/mat-borges/blob/output/github-contribution-grid-snake.svg" alt="mateus snake svg" />
 </div>
-
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Counter</b></p>  
-  <img align="center" src="https://profile-counter.glitch.me/{mat-borges}/count.svg" />
-  <br>
-</div>
