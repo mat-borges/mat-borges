@@ -29,13 +29,18 @@
  [![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/ "TypeScript")
 
 #### _Libraries and Tools_
- [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=808080)](https://reactjs.org/ "React")
+ [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=808080)](https://reactjs.org/ "React")
+ [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)](https://nextjs.org/docs "Next.js")
  [![styled-components](http://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff) ](https://styled-components.com/ "styled-components")
- [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=ffffff) ](https://nodejs.org/en/ "Node.JS")
+ [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=ffffff) ](https://nodejs.org/en/ "Node.JS")
+ [![NestJS](https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff) ](https://docs.nestjs.com "Nest.JS")
  [![Express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff) ](https://expressjs.com/ "Express")
  [![Prisma](http://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=ffffff) ](https://www.prisma.io/docs "Prisma")
  [![Git](http://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff) ](https://git-scm.com/ "Git")
  [![eslint](http://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=ffffff)](https://eslint.org/ "Eslint")
+ [![Docker](http://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://docs.docker.com "Docker")
+ [![AWS](http://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=ffffff)](https://docs.aws.amazon.com/?nc2=h_ql_doc_do&refid=2ee11bb2-bc40-4546-9852-2c4ad8e8f646 "AWS Docs")
+ [![Jest](http://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff)](https://jestjs.io/pt-BR/docs/getting-started "Jest Docs")
 
 #### _Databases_
  [![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/ "MongoDB")
