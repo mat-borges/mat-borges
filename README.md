@@ -6,10 +6,9 @@
 
 ##
 
-- 💻 My lastest project **[Shortly(API)](https://github.com/mat-borges/shortly-api "Projeto Shortly-api")**
-- 🔭 I’m currently working on **[Driven.t](https://github.com/orgs/drivent-G1010/repositories "Projeto Driven.t")**
-- 🌱 I’m currently learning **Unit Tests**
-- 💬 Ask me about **JavaScript, React, Node.js, PostgreSQL, Prisma**
+- 💻 I’m currently working on **[MediaTracker](https://github.com/mat-borges/mediatracker-react-ts "Projeto Autoral (MediaTracker)")**
+- 🌱 I’m currently learning **Nest.js**
+- 💬 Ask me about **React.js, Node.js, PostgreSQL, Prisma**
 
 ## 🌐 Socials
 
