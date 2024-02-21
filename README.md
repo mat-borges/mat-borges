@@ -7,7 +7,7 @@
 ##
 
 - 💻 I’m currently working on **[MediaTracker](https://github.com/mat-borges/mediatracker-react-ts "Projeto Autoral (MediaTracker)")**
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **JAVA**
 - 💬 Ask me about **React.js, Node.js, PostgreSQL, Prisma**
 
 ## 🌐 Socials
