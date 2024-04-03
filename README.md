@@ -6,7 +6,7 @@
 
 ##
 
-- 💻 I’m currently working on **[Fin App](https://github.com/mat-borges/mediatracker-react-ts "Projeto Autoral (Fin Me Up)")**
+- 💻 I’m currently working on **[Fin App](https://github.com/mat-borges/fin-me-up-front "Projeto Autoral (Fin Me Up)")**
 - 🌱 I’m currently learning **JAVA**
 - 💬 Ask me about **React.js, Node.js, PostgreSQL, Prisma**
 
