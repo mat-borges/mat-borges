@@ -6,7 +6,7 @@
 
 ##
 
-- 💻 I’m currently working on **[Fin App](https://github.com/mat-borges/fin-me-up-front "Projeto Autoral (Fin Me Up)")**
+- 💻 I’m currently working on **Personal FinBuddy** **[Front](https://github.com/mat-borges/personal-finbuddy-front "Projeto Autoral (Front-End)")** **[Back](https://github.com/mat-borges/personal-finbuddy-back "Projeto Autoral (Back-End)")**
 - 🌱 I’m currently learning **JAVA**
 - 💬 Ask me about **React.js, Node.js, PostgreSQL, Prisma**
 
