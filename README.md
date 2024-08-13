@@ -6,10 +6,6 @@
 
 ##
 
-[//]: # (- 💻 I’m currently working on **Personal FinBuddy** **[Front](https://github.com/mat-borges/personal-finbuddy-front "Projeto Autoral (Front-End)")** **[Back](https://github.com/mat-borges/personal-finbuddy-back "Projeto Autoral (Back-End)")**)
-
-[//]: # ([//]: # (- 🌱 I’m currently learning **JAVA**))
-
 - 💬 Ask me about **React.js, Node.js, PostgreSQL, Prisma**
 
 ## 🌐 Socials
