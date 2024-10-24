@@ -25,6 +25,7 @@
  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff) ](https://developer.mozilla.org/en-US/docs/Web/HTML "HTML on mdnWebDocs")
  [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=ffffff) ](https://developer.mozilla.org/en-US/docs/Web/CSS "CSS on mdnWebDocs")
  [![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/ "TypeScript")
+ [![.NET](http://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=ffffff)](https://www.typescriptlang.org/ "TypeScript")
 
 #### _Libraries and Tools_
  [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=808080)](https://reactjs.org/ "React")
