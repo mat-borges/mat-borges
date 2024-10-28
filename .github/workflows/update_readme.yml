@@ -19,7 +19,7 @@ jobs:
           AZURE_PAT: ${{ secrets.AZURE_PAT }}
         run: |
           echo "Fetching work item stats from Azure DevOps..."
-          response=$(curl -s -u :$AZURE_PAT "https://dev.azure.com/$AZURE_ORG/$AZURE_PROJECT/_apis/wit/workitems?`$top=1000&api-version=6.0`")
+          response=$(curl -s -u :$AZURE_PAT "https://dev.azure.com/$AZURE_ORG/$AZURE_PROJECT/_apis/wit/workitems?$top=1000&api-version=6.0")
           echo "Response: $response"
 
           # Handle potential empty response
