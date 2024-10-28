@@ -14,7 +14,10 @@
  [![Instagram Badge](https://img.shields.io/badge/-@matbborges-E4405F?style=flat&logo=Instagram&logoColor=white) ](https://www.instagram.com/matbborges/ "Follow on Instagram")
  [![Wakatime Badge](https://wakatime.com/badge/user/65e091a8-99ff-49c6-96b2-fe7a9a3dd53c.svg)](https://wakatime.com/@65e091a8-99ff-49c6-96b2-fe7a9a3dd53c "See WakaTime Profile")
  
-
+## 🚀 My Azure DevOps Stats
+- Completed Work Items: [number from Azure DevOps]
+- Total Commits: [number of commits]
+  
 ## 💻 Tech Stack
 
 #### _Editor_
