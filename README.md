@@ -15,8 +15,8 @@
  [![Wakatime Badge](https://wakatime.com/badge/user/65e091a8-99ff-49c6-96b2-fe7a9a3dd53c.svg)](https://wakatime.com/@65e091a8-99ff-49c6-96b2-fe7a9a3dd53c "See WakaTime Profile")
  
 ## 🚀 My Azure DevOps Stats
-- Completed Work Items: [number from Azure DevOps]
-- Total Commits: [number of commits]
+- Completed Work Items: 36
+- Total Commits: 121
   
 ## 💻 Tech Stack
 
