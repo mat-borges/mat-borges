@@ -20,6 +20,7 @@ jobs:
         run: |
           echo "Fetching work item stats from Azure DevOps..."
           response=$(curl -s -u :$AZURE_PAT "https://dev.azure.com/$AZURE_ORG/$AZURE_PROJECT/_apis/wit/workitems?api-version=6.0")
+          echo "Response: $response"
           completed_items=$(echo $response | jq '[.value[] | select(.fields["System.State"] == "Closed")] | length')
           echo "Completed work items: $completed_items"
           echo "::set-output name=completed_items::$completed_items"
