@@ -22,6 +22,13 @@ jobs:
           response=$(curl -s -u :$AZURE_PAT "https://dev.azure.com/$AZURE_ORG/$AZURE_PROJECT/_apis/wit/workitems?`$top=1000&api-version=6.0`")
           echo "Response: $response"
 
+          # Handle potential empty response
+          if [[ $(echo $response | jq '.count') -eq 0 ]]; then
+            echo "No work items found."
+            echo "::set-output name=completed_items::0"
+            exit 0
+          fi
+
           # Count completed work items
           completed_items=$(echo $response | jq '[.value[] | select(.fields["System.State"] == "Closed")] | length')
           echo "Completed work items: $completed_items"
