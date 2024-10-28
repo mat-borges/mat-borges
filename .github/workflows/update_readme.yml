@@ -1,50 +1,50 @@
-name: Update README with Azure DevOps Stats
+#name: Update README with Azure DevOps Stats
 
-on:
-  schedule:
-    - cron: '0 18 * * *'  # Runs every day at 6 PM UTC
-  workflow_dispatch:  # Allows manual triggering
+#on:
+#  schedule:
+    #- cron: '0 18 * * *'  # Runs every day at 6 PM UTC
+#  workflow_dispatch:  # Allows manual triggering
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Fetch Azure DevOps Stats
-        env:
-          AZURE_ORG: ${{ secrets.AZURE_ORG }}
-          AZURE_PROJECT: ${{ secrets.AZURE_PROJECT }}
-          AZURE_PAT: ${{ secrets.AZURE_PAT }}
-        run: |
-          echo "Fetching work item stats from Azure DevOps..."
-          response=$(curl -s -u :$AZURE_PAT "https://dev.azure.com/$AZURE_ORG/$AZURE_PROJECT/_apis/wit/workitems?api-version=6.0")
-          echo "Response: $response"
+#jobs:
+#  update-readme:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - name: Checkout repository
+#        uses: actions/checkout@v2
+#
+#      - name: Fetch Azure DevOps Stats
+#        env:
+#          AZURE_ORG: ${{ secrets.AZURE_ORG }}
+#          AZURE_PROJECT: ${{ secrets.AZURE_PROJECT }}
+#          AZURE_PAT: ${{ secrets.AZURE_PAT }}
+#        run: |
+#          echo "Fetching work item stats from Azure DevOps..."
+#          response=$(curl -s -u :$AZURE_PAT "https://dev.azure.com/$AZURE_ORG/$AZURE_PROJECT/_apis/wit/workitems?api-version=6.0")
+#          echo "Response: $response"
 
           # Handle potential empty response
-          if [[ $(echo $response | jq '.count') -eq 0 ]]; then
-            echo "No work items found."
-            echo "::set-output name=completed_items::0"
-            exit 0
-          fi
+#          if [[ $(echo $response | jq '.count') -eq 0 ]]; then
+#            echo "No work items found."
+#            echo "::set-output name=completed_items::0"
+#            exit 0
+#          fi
 
           # Count completed work items
-          completed_items=$(echo $response | jq '[.value[] | select(.fields["System.State"] == "Closed")] | length')
-          echo "Completed work items: $completed_items"
-          echo "::set-output name=completed_items::$completed_items"
+#          completed_items=$(echo $response | jq '[.value[] | select(.fields["System.State"] == "Closed")] | length')
+#          echo "Completed work items: $completed_items"
+#          echo "::set-output name=completed_items::$completed_items"
 
-      - name: Update README
-        run: |
-          completed_items="${{ steps.fetch.outputs.completed_items }}"
-          echo "Updating README..."
-          current_readme=$(cat README.md)
-          new_readme=$(echo "$current_readme" | sed "s/- Completed Work Items: .*/- Completed Work Items: $completed_items/")
-          echo "$new_readme" > README.md
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update stats from Azure DevOps"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#      - name: Update README
+#        run: |
+#          completed_items="${{ steps.fetch.outputs.completed_items }}"
+#          echo "Updating README..."
+#          current_readme=$(cat README.md)
+#          new_readme=$(echo "$current_readme" | sed "s/- Completed Work Items: .*/- Completed Work Items: $completed_items/")
+#          echo "$new_readme" > README.md
+#          git config --local user.email "action@github.com"
+#          git config --local user.name "GitHub Action"
+#          git add README.md
+#          git commit -m "Update stats from Azure DevOps"
+#          git push
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
