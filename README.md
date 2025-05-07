@@ -10,9 +10,7 @@ Hi! I'm Mateus Borges, a Full Stack Developer. Currently, I’m working with **.
 
 ## 🌐 Socials
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mat-borges "Connect on LinkedIn")  
-[![Instagram Badge](https://img.shields.io/badge/-@matbborges-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/matbborges/ "Follow on Instagram")  
-[![Wakatime Badge](https://wakatime.com/badge/user/65e091a8-99ff-49c6-96b2-fe7a9a3dd53c.svg)](https://wakatime.com/@65e091a8-99ff-49c6-96b2-fe7a9a3dd53c "See WakaTime Profile")
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mat-borges "Connect on LinkedIn") [![Instagram Badge](https://img.shields.io/badge/-@matbborges-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/matbborges/ "Follow on Instagram") [![Wakatime Badge](https://wakatime.com/badge/user/65e091a8-99ff-49c6-96b2-fe7a9a3dd53c.svg)](https://wakatime.com/@65e091a8-99ff-49c6-96b2-fe7a9a3dd53c "See WakaTime Profile")
 
 ## 🚀 My Azure DevOps Stats
 - Completed Work Items: 36  
@@ -20,38 +18,24 @@ Hi! I'm Mateus Borges, a Full Stack Developer. Currently, I’m working with **.
 
 ## 💻 Tech Stack
 
-### Frontend
-[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=808080)](https://reactjs.org/)  
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)](https://nextjs.org/docs)  
-[![styled-components](http://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff)](https://styled-components.com/)
+| **Frontend** | **Backend** | **Databases** | **DevOps/Tools** | **Languages** |
+|:--------------:|:-------------:|:---------------:|:------------------:|:---------------:|
+| [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=808080)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)](https://nextjs.org/docs) | [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/) [![Express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/) [![NestJS](https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff)](https://nestjs.com/) | [![PostgreSQL](http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/) [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff)](https://www.microsoft.com/en-us/sql-server) | [![Docker](http://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://docs.docker.com) [![AWS](http://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com) [![Git](http://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/) | [![.NET](http://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=808080)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) |
 
-### Backend
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/en/)  
-[![NestJS](https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=ffffff)](https://nestjs.com/)  
-[![Express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/)
 
-### Databases
-[![PostgreSQL](http://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=ffffff)](https://www.postgresql.org/)  
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=ffffff)](https://www.microsoft.com/en-us/sql-server)  
 
-### DevOps/Tools
-[![Docker](http://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://docs.docker.com)  
-[![AWS](http://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com)  
-[![Git](http://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/)  
-
-### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=808080)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)  
-[![.NET](http://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)  
-
+<!--
 ## 📊 GitHub Stats
 ![Mateus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=mat-borges&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-<!--
 ## 🚀 Featured Projects
 - [Project 1](https://github.com/mat-borges/project1): A brief description of the project and key technologies used.
 - [Project 2](https://github.com/mat-borges/project2): A brief description of the project and key technologies used.
 -->
+
+## Education
+ - Bachelor's degree in Checimal Engineering from UNICAMP
+ - Fullstack Developer from Driven Education
 
 ## ✨ Let's Connect!
 Feel free to reach out for a chat about technology, volleyball, games, or manhwas! 😊
