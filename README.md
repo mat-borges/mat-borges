@@ -57,8 +57,3 @@
 <div align="center">
   <img width="500em" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
----
-<div align="center">
-  <img src="https://github.com/mat-borges/mat-borges/blob/output/github-contribution-grid-snake.svg" alt="mateus snake svg" />
-</div>
