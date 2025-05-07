@@ -1,6 +1,4 @@
-<div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=32&duration=1000&pause=1500&color=008F11&center=true&vCenter=true&width=860&lines=👋🏼+Hi+there!;🙋🏼‍♂️+My+name+is+Mateus+Borges%2C+I&#39;m+26;👨🏼‍💻+and+a+Full+Stack+Developer")
-</div>
 
 ##
 
