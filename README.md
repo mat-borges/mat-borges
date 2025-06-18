@@ -12,10 +12,6 @@ Hi! I'm Mateus Borges, a Full Stack Developer. Currently, I’m working with **.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mat-borges "Connect on LinkedIn") [![Instagram Badge](https://img.shields.io/badge/-@matbborges-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/matbborges/ "Follow on Instagram") [![Wakatime Badge](https://wakatime.com/badge/user/65e091a8-99ff-49c6-96b2-fe7a9a3dd53c.svg)](https://wakatime.com/@65e091a8-99ff-49c6-96b2-fe7a9a3dd53c "See WakaTime Profile")
 
-## 🚀 My Azure DevOps Stats
-- Completed Work Items: 36  
-- Total Commits: 121  
-
 ## 💻 Tech Stack
 
 | **Frontend** | **Backend** | **Databases** | **DevOps/Tools** | **Languages** |
