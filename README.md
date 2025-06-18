@@ -32,7 +32,7 @@ Hi! I'm Mateus Borges, a Full Stack Developer. Currently, I’m working with **.
  - Fullstack Developer from Driven Education
 
 ## ✨ Let's Connect!
-Feel free to reach out for a chat about technology, volleyball, games, or manhwas! 😊
+Feel free to reach out for a chat about technology, volleyball, games, or mangas! 😊
 
 ## 🎮 Personal Touch
 Outside of coding, I enjoy playing **volleyball**, diving into **games**, and reading **manhwas**. If you're into any of these, let's chat!
