@@ -2,11 +2,11 @@
 
 ##
 
-Hi! I'm Mateus Borges, a Full Stack Developer. Currently, I’m working with **.NET**, **ASP.NET**, **VB.NET**, and **SQL Server**. I'm passionate about building web applications, creating scalable systems, and continuously learning new technologies. Feel free to explore my projects and connect!
+Hi! I'm Mateus Borges, a Full Stack Developer. Currently, I’m working with **.NET**, **ASP.NET** and **SQL Server**. I'm passionate about building web applications, creating scalable systems, and continuously learning new technologies. Feel free to explore my projects and connect!
 
 ##
 
-- 💬 Ask me about **.NET**, **ASP.NET**, **VB.NET**, **SQL Server**, **React.js**, **Node.js**, **PostgreSQL**, **Prisma**
+- 💬 Ask me about **.NET**, **SQL Server**, **React.js**, **Node.js**, **PostgreSQL**
 
 ## 🌐 Socials
 
